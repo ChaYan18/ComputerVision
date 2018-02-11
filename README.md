@@ -8,4 +8,10 @@ Utilization of OPENCV with python for small projects. includes:
                     The result will we all the photos of the user will be extracted from the random pcture folder and transfer to new folder 
                     named after the user.
                     
+                    
+  HSVcolor tracker-----
+                    For maping the hsv values from a photo. Made for color detection application.
+                    
+    
+                    
         
